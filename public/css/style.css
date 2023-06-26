@@ -1,0 +1,21 @@
+h1{
+    color: #000;
+    font-size: 50px;
+}
+
+		.card {
+			margin-top: 100px;
+			border: none;
+		}
+
+		.card-header {
+			background-color: #17a2b8;
+			color: #fff;
+			text-align: center;
+		}
+
+		.login_btn {
+			color: #fff;
+			background-color: #17a2b8;
+			width: 100px;
+		}
